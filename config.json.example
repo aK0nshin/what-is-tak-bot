@@ -1,0 +1,10 @@
+{
+    "PROJECT_NAME": "What Is Tak Bot",
+    "LOG_LEVEL": "DEBUG",
+    "LOG_FORMAT": "'%(asctime)s [%(levelname)s | %(filename)s:%(lineno)s] %(message)s",
+    "VERSION": "0.0.1",
+    "BOT_TOKEN": "***:***",
+    "BOT_REPLY": false,
+    "MONGO_URL": "mongodb://localhost:27017",
+    "MONGO_DB_NAME": "what-is-tak-bot"
+}
